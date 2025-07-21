@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fresh Apples",
+    "description": "Crisp and sweet handpicked apples.",
+    "price": "4.99"
+  },
+  {
+    "name": "Organic Bananas",
+    "description": "Naturally ripened organic bananas.",
+    "price": "2.99"
+  },
+  {
+    "name": "Veggie Basket",
+    "description": "A mix of fresh seasonal vegetables.",
+    "price": "12.50"
+  }
+]
